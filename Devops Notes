@@ -1,0 +1,34 @@
+Prerequisite:
+	1. Attend Agile session from youtube/ITMS
+	2. SDLC.- TutorialsPoint.com
+	3. Devops Fundamentals/Foundation: ITMS., FutureSkills.(20 Qurated skills of Devops)
+
+
+
+CI/CD--> 
+
+	• CI: Dev, Coding, Testing and Notification
+
+	• Dev--> Committed to SCM --> CI
+
+	• Advantages of CI:
+		a. Reduced integration risk
+		b. Higher code quality
+		c. Appropriate version control
+		d. Reduced conflicts between team members
+		e. Less time for deployment.
+		f. Transparent to the client and having increased confidence.
+
+	• Tools used in Devops:
+		○ Build tools- Shell, powershell, batch, maven, Ant, MS-Build, PyBuilder
+		○ Test Tools- MS-Test, Nunit, Junit, 
+		○ SCM-SVN, Git, Github, Gitlab, bitbucket
+		○ Deployment- Cloud(AWS, GCP, Azure), Docker, AppServer- Tomcat, Jboss, Glassfish, Weblogic, WebSphere, 
+		○ Notification- e-Mail 
+		○ Monitoring- Jenkins, Blue Ocean, Nagios, 
+	• Environments to Practice Jenkins
+		○ Raise request for TopGear VDI- DevOps-OS, DevOps-CITI
+		○ Get a cloud access- Azure, AWS, GCP- Create a VM- Windows, Linux- Install Jenkins
+		○ Create your own VM
+How to get the jenkins credential:
+	While Installalling jenkins keep watching the monitor, it will ask to copy the path of initial encrypted pwd.
